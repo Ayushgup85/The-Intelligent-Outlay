@@ -1,8 +1,8 @@
 {
-  "name": "speechly",
+  "name": "The",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AyushGup85.github.io/The-Intelligent-Outlay/", 
+  "homepage": "https://AyushGup85.github.io/The-Intelligent-Outlay/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
