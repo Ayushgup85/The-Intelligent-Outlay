@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/The-Intelligent-Outlay/static/css/main.c3a890af.chunk.css",
+    "main.js": "/The-Intelligent-Outlay/static/js/main.4bdaf842.chunk.js",
+    "main.js.map": "/The-Intelligent-Outlay/static/js/main.4bdaf842.chunk.js.map",
+    "runtime-main.js": "/The-Intelligent-Outlay/static/js/runtime-main.940de004.js",
+    "runtime-main.js.map": "/The-Intelligent-Outlay/static/js/runtime-main.940de004.js.map",
+    "static/js/2.8cfb8794.chunk.js": "/The-Intelligent-Outlay/static/js/2.8cfb8794.chunk.js",
+    "static/js/2.8cfb8794.chunk.js.map": "/The-Intelligent-Outlay/static/js/2.8cfb8794.chunk.js.map",
+    "index.html": "/The-Intelligent-Outlay/index.html",
+    "static/css/main.c3a890af.chunk.css.map": "/The-Intelligent-Outlay/static/css/main.c3a890af.chunk.css.map",
+    "static/js/2.8cfb8794.chunk.js.LICENSE.txt": "/The-Intelligent-Outlay/static/js/2.8cfb8794.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/The-Intelligent-Outlay/static/media/money.9eedd35c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.940de004.js",
+    "static/js/2.8cfb8794.chunk.js",
+    "static/css/main.c3a890af.chunk.css",
+    "static/js/main.4bdaf842.chunk.js"
+  ]
+}
